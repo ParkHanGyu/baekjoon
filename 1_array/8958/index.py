@@ -11,3 +11,4 @@ for i in range(n):
         else:
             score = 0
     print(sum_score)
+    sum_score = 0
